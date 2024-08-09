@@ -1,0 +1,23 @@
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\bin\Debug\net8.0\TextBasedProject.deps.json
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\bin\Debug\net8.0\TextBasedProject.dll
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\bin\Debug\net8.0\TextBasedProject.pdb
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\TextBasedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\TextBasedProject.AssemblyInfoInputs.cache
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\TextBasedProject.AssemblyInfo.cs
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\TextBasedProject.csproj.CoreCompileInputs.cache
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\TextBasedProject.dll
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\refint\TextBasedProject.dll
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\TextBasedProject.pdb
+C:\Users\ercan.esen\Desktop\TextBased\TextBasedProject\TextBasedProject\obj\Debug\net8.0\ref\TextBasedProject.dll
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\TextBasedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\TextBasedProject.AssemblyInfoInputs.cache
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\TextBasedProject.AssemblyInfo.cs
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\TextBasedProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\TextBasedProject.dll
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\refint\TextBasedProject.dll
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\TextBasedProject.pdb
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\bin\Debug\net8.0\TextBasedProject.deps.json
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\bin\Debug\net8.0\TextBasedProject.dll
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\bin\Debug\net8.0\TextBasedProject.pdb
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\ref\TextBasedProject.dll
+C:\Users\ahmet.colkesen\wkspaces\Timer Bomb Project\TextBasedProject\obj\Debug\net8.0\TextBasedProject.sourcelink.json
